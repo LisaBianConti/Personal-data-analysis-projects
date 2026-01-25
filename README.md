@@ -1,2 +1,2 @@
 # Personal-data-analysis-projects
-This repository showcases several personal data analysis projects. The goal of this repository is to demonstrate practical skills in data cleaning, exploratory data analysis (EDA), and insight generation using Python and Jupyter Notebook.
+This repository contains a collection of personal data analysis projects that demonstrate proficiency in Python-based data analysis, including data cleaning, exploratory data analysis (EDA), and insight generation. The projects use real-world datasets and emphasize structured problem-solving, reproducible workflows, and clear communication of results through Jupyter Notebooks.
